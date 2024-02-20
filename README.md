@@ -1,4 +1,4 @@
-Delcio Ferreira
+<h3>Delcio Ferreira</h3>
 
 Game Development Graduate & Data Analyst 
 
