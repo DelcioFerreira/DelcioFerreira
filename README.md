@@ -8,3 +8,6 @@ Projects :
 
 Game Development Portfolio
 https://delchtf.wixsite.com/delcioportfolio
+
+Python Projects
+https://github.com/DelcioFerreira/Python-Projects
