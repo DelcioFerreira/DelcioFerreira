@@ -12,5 +12,5 @@ https://delchtf.wixsite.com/delcioportfolio
 Python Projects
 https://github.com/DelcioFerreira/Python-Projects
 
-Data Analytics Projects (Python, Excel, SQL, Google Sheets, PowerBI)
+Data Analytics Projects (Python, Excel, SQL)
 https://github.com/DelcioFerreira/Data-Analytics
